@@ -8,9 +8,4 @@ class AuthController extends Controller
 {
     
 
-
-
-
-
- public function signup($req);
 }
